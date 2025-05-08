@@ -1,4 +1,4 @@
-[![MasterHead](https%3A%2F%2Fwww.shutterstock.com%2Fsearch%2Fsoftware-testing-banner&psig=AOvVaw13X2U0e6NcJ9J9kj64ZVcu&ust=1746806611160000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLDj9e2flI0DFQAAAAAdAAAAABAE)
+https%3A%2F%2Fwww.shutterstock.com%2Fsearch%2Fsoftware-testing-banner&psig=AOvVaw13X2U0e6NcJ9J9kj64ZVcu&ust=1746806611160000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLDj9e2flI0DFQAAAAAdAAAAABAE)
 <h1 align="center">Hi 👋, I'm Yusif Samadov</h1>
 <h3 align="center">A passionate Software tester from Azerbaijan</h3>
 
